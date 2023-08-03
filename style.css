@@ -1,0 +1,23 @@
+  
+header p{
+    color: #ffffff;
+    font-weight: 600;
+}
+
+h1{
+    font-size: 42px;
+    color: blueviolet;
+    padding: 15px;
+    color: white;
+    text-align: center
+}
+
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: rgb(16, 6, 25);
+    font-weight: 600;   
+}
+
+
+
